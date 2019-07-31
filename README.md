@@ -1,2 +1,0 @@
-# ReactAdivinha
-Created with CodeSandbox
